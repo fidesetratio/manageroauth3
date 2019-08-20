@@ -1,0 +1,1 @@
+Manager Oauth3 and client details to database
